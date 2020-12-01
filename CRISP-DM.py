@@ -6,12 +6,15 @@
 # What is the marital status of defaulters vs non defaulters?
 # What is the average age of defaulters vs non defaulters?
 
+
 # Data Understanding
 # How many samples and features are in the data?
 # How many features have incorrect data?
 
+
 # Prepare Data
 # Fixing incorrect data
+
 
 # Model Data
 # KNN
