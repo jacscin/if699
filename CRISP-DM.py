@@ -1,4 +1,4 @@
-# Business Understanding
+## Business Understanding
 # What is the average credit of defaulters vs non defaulters?
 # What is the percentage of male defaulters vs non defaulters?
 # What is the percentage of female defaulters vs non defaulters?
@@ -7,16 +7,16 @@
 # What is the average age of defaulters vs non defaulters?
 
 
-# Data Understanding
+## Data Understanding
 # How many samples and features are in the data?
 # How many features have incorrect data?
 
 
-# Prepare Data
+## Prepare Data
 # Fixing incorrect data
 
 
-# Model Data
+## Model Data
 # KNN
 # Decision Tree
 # Random Forest
@@ -25,4 +25,4 @@
 # Ensemble Classifiers
 
 
-# Results
+## Results
