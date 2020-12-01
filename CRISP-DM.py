@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 data = pd.read_csv(filepath_or_buffer='default of credit card clients.csv', sep=';', header=0)
